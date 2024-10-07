@@ -6,6 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: e9926989d904f504495727585b11c05c
+  - enabled: 1
+    path: Assets/Scenes/Player Info.unity
+    guid: 9e9422d831d93a5428d30d16cfe26f31
+  - enabled: 1
+    path: Assets/Scenes/Purchase Records.unity
+    guid: cdc28bd720f8aec4f9d6299847a91ebd
+  - enabled: 1
     path: Assets/Building Placement System (RTS)/Player Virutal Village.unity
     guid: ab4fa361a7d507c43bf2ca869e769afa
   m_configObjects: {}
