@@ -291,7 +291,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -7, y: -183}
+  m_AnchoredPosition: {x: -7, y: -268}
   m_SizeDelta: {x: 425.946, y: 337.7795}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &411944325
@@ -491,8 +491,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Welcome to Financial City, To Start saving with us please tell us your
-    name and the budget you have for this week
+  m_text: 'Welcome to Financial City, Here you will be able to create your own Vitual
+    City with your real life purchases.
+
+    To get started please tell us your name
+    and the budget you have for this week
 
 '
   m_isRightToLeft: 0
@@ -607,7 +610,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -21, y: 409}
+  m_AnchoredPosition: {x: -21, y: 331}
   m_SizeDelta: {x: 545.3314, y: 112.1365}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &776736999
@@ -782,7 +785,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -21, y: 60}
+  m_AnchoredPosition: {x: -21, y: -18}
   m_SizeDelta: {x: 545.3314, y: 112.1365}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &781794749
@@ -1406,7 +1409,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -17, y: -461}
+  m_AnchoredPosition: {x: -17, y: -539}
   m_SizeDelta: {x: 365.3948, y: 146.9171}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1130829068
@@ -1577,7 +1580,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -40, y: 515}
+  m_AnchoredPosition: {x: -40, y: 437}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1242007711
@@ -1711,7 +1714,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -35, y: 244.33301}
+  m_AnchoredPosition: {x: -35, y: 166.33301}
   m_SizeDelta: {x: 370.6208, y: 47.3341}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1265970777
